@@ -1,0 +1,4 @@
+{
+  "enableCMake": true,
+  "sourceDirectory": "yolov5-tensorrtx"
+}

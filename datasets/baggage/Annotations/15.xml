@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>15.jpg</filename>
+	<path>D:\PycharmProjects\yolov5\VOCData\images\15.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1266</width>
+		<height>817</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>baggage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>487</xmin>
+			<ymin>386</ymin>
+			<xmax>821</xmax>
+			<ymax>645</ymax>
+		</bndbox>
+	</object>
+</annotation>

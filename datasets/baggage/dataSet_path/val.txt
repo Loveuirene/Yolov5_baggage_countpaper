@@ -1,0 +1,14 @@
+D:/Yolov5/yolov5/VOCData/images/104.jpg
+D:/Yolov5/yolov5/VOCData/images/115.jpg
+D:/Yolov5/yolov5/VOCData/images/128.jpg
+D:/Yolov5/yolov5/VOCData/images/135.jpg
+D:/Yolov5/yolov5/VOCData/images/23.jpg
+D:/Yolov5/yolov5/VOCData/images/24.jpg
+D:/Yolov5/yolov5/VOCData/images/35.jpg
+D:/Yolov5/yolov5/VOCData/images/36.jpg
+D:/Yolov5/yolov5/VOCData/images/44.jpg
+D:/Yolov5/yolov5/VOCData/images/51.jpg
+D:/Yolov5/yolov5/VOCData/images/64.jpg
+D:/Yolov5/yolov5/VOCData/images/72.jpg
+D:/Yolov5/yolov5/VOCData/images/88.jpg
+D:/Yolov5/yolov5/VOCData/images/89.jpg

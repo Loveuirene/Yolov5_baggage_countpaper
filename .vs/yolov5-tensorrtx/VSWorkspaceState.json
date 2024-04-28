@@ -1,0 +1,8 @@
+{
+  "OutputFoldersPerTargetSystem": {
+    "\u672C\u5730\u8BA1\u7B97\u673A": [
+      "yolov5-tensorrtx\\out\\build\\x64-Debug",
+      "yolov5-tensorrtx\\out\\install\\x64-Debug"
+    ]
+  }
+}
